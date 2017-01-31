@@ -14,6 +14,6 @@ The program receives the following input; the alignment and printing commands ca
    - f (forward printing direction)
    - r (reverse printing direction)
    - p (print lines with set settings, default is forward)
-   - k <k> (print kth line where <k> is an integer>=0)
-   - s <s> (prints lines containing <s> where <s> is a string)
+   - k M (print Mth line where M is an integer>=0)
+   - s N (prints lines containing N where N is a string)
    - q (quits command input and begins file-reading)

@@ -77,15 +77,6 @@ int main (int argc, char* argv[]) {
       i+=2;
       lines.clear();
   }
-/*  if(c1 == "rr"||c1 == "null") rr(N, lines, textFileName);
-  else if(c1 == "j") j(N, lines, textFileName);
-  else if(c1 == "rl") rl(N, lines, textFileName);
-  else if(c1 == "c") c(N, lines, textFileName);
-
-  if(c3 == "p") p(lines, c2);
-  else if(c3 == "k") k(lines, kIn);
-  else if(c3 == "s") s(lines, sIn);
-*/
 }
 
 void rr(int N, vector<string> &lines, string textFileName) {
